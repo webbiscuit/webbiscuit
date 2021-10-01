@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hi there 👋 I am a Dan
 
-<!--
-**webbiscuit/webbiscuit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here you will find a random collection of barely started projects and terrible ideas.
 
-Here are some ideas to get you started:
+**Website**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The most over engineered webpage in the world
+https://github.com/webbiscuit/webbiscuit-website
+
+♟️ **Chess**
+
+Maybe I can write something that will make me less awful at chess...
+https://github.com/webbiscuit/dan-chess
+
+**Machine Learning**
+
+Speaking to the dead using Python?
+https://github.com/webbiscuit/markov-kafka
+
+**Text Adventures**
+
+Parse choose your own whatevers (TM)
+https://github.com/webbiscuit/haskell-adventure
+
+All of the rooms look alike.
+https://github.com/webbiscuit/inform-sandbox
+
+**Germs of Ideas**
+
+Learning Haskell and how to manage cats (WIP)
+https://github.com/webbiscuit/cat-o-log
+
