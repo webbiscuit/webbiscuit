@@ -2,6 +2,9 @@
 
 Here you will find a random collection of barely started projects and terrible ideas.
 
+I know C++, python, C# and typescript.
+I'm currently learning Rust, Haskell and Unity 3d.
+
 **Website**
 
 The most over engineered webpage in the world
@@ -10,7 +13,8 @@ https://github.com/webbiscuit/webbiscuit-website
 ♟️ **Chess**
 
 Maybe I can write something that will make me less awful at chess...
-https://github.com/webbiscuit/dan-chess
+
+https://github.com/webbiscuit/dan-rusty-chess
 
 **Machine Learning**
 
