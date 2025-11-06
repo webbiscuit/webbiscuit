@@ -2,8 +2,7 @@
 
 Here you will find a random collection of barely started projects and terrible ideas.
 
-I know C++, python, C# and typescript.
-I'm currently learning Rust, Haskell and Unity 3d.
+I know C++, python, C#, typescript, Rust.
 
 **Website**
 
