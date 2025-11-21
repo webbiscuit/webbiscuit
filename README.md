@@ -4,6 +4,10 @@ Here you will find a random collection of barely started projects and terrible i
 
 I know C++, python, C#, typescript, Rust.
 
+**My current Dev Setup**
+
+WSL Ubuntu on Windows. Visual Code. CoPilotless.
+
 **Website**
 
 The most over engineered webpage in the world
