@@ -1,5 +1,10 @@
 ### Hi there 👋 I am a Dan
 
+![Rust](https://img.shields.io/badge/Rust-1A1A1A?logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1A1A1A?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-1A1A1A?logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1A1A1A?logo=typescript&logoColor=white)
+
 ![WSL](https://img.shields.io/badge/WSL-Ubuntu-1A1A1A?logo=ubuntu&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Editor-VSCode-1A1A1A?logo=visualstudiocode&logoColor=white)
 ![Copilot](https://img.shields.io/badge/Copilot-Disabled-critical)
