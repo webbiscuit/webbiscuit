@@ -2,6 +2,8 @@
 
 Here you will find a random collection of barely started projects and terrible ideas.
 
+All of my software is created with human intelligence. This is a vibe-free zone.
+
 I know C++, python, C#, typescript, Rust.
 
 **My current Dev Setup**
