@@ -15,7 +15,17 @@ WSL Ubuntu on Windows. Visual Code. CoPilotless.
 The most over engineered webpage in the world
 https://github.com/webbiscuit/webbiscuit-website
 
-♟️ **Chess**
+**Showcase**
+
+A minimal event-based ledger system. Uses Rust and Axum.
+https://github.com/webbiscuit/event-based-ledger
+
+**Templates**
+
+My clean, conda based jupyter template. Get up and running with a new python env quickly.
+https://github.com/webbiscuit/jupyter-template
+
+**Chess**
 
 Maybe I can write something that will make me less awful at chess...
 
