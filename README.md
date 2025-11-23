@@ -21,6 +21,11 @@ Maybe I can write something that will make me less awful at chess...
 
 https://github.com/webbiscuit/dan-rusty-chess
 
+**Emulators**
+
+Chip 8 Emulator
+https://github.com/webbiscuit/rust-chip8
+
 **Machine Learning**
 
 Speaking to the dead using Python?
@@ -33,9 +38,3 @@ https://github.com/webbiscuit/haskell-adventure
 
 All of the rooms look alike.
 https://github.com/webbiscuit/inform-sandbox
-
-**Germs of Ideas**
-
-Learning Haskell and how to manage cats (WIP)
-https://github.com/webbiscuit/cat-o-log
-
