@@ -1,5 +1,9 @@
 ### Hi there 👋 I am a Dan
 
+![WSL](https://img.shields.io/badge/WSL-Ubuntu-1A1A1A?logo=ubuntu&logoColor=white)
+![VS Code](https://img.shields.io/badge/Editor-VSCode-1A1A1A?logo=visualstudiocode&logoColor=white)
+![Copilot](https://img.shields.io/badge/Copilot-Disabled-critical)
+
 Here you will find a random collection of barely started projects and terrible ideas. I build things for fun and learning.
 
 All of my software is created with human intelligence. This is a vibe-free zone.
