@@ -1,50 +1,77 @@
 ### Hi there 👋 I am a Dan
 
-Here you will find a random collection of barely started projects and terrible ideas.
+Here you will find a random collection of barely started projects and terrible ideas. I build things for fun and learning.
 
 All of my software is created with human intelligence. This is a vibe-free zone.
 
-I know C++, python, C#, typescript, Rust.
+---
 
-**My current Dev Setup**
+## What I Work With
 
+C++, Python, C#, TypeScript, Rust.  
+Mostly Rust in my spare time. It scratches a nice itch.
+
+Current setup:  
 WSL Ubuntu on Windows. Visual Code. CoPilotless.
 
-**Website**
+---
 
-The most over engineered webpage in the world
-https://github.com/webbiscuit/webbiscuit-website
+## Featured Projects
 
-**Showcase**
-
-A minimal event-based ledger system. Uses Rust and Axum.
+### **Event-Based Ledger (Rust + Axum)**
+A minimal event-sourced banking ledger.  
+Domain-driven, invariant-heavy, and actually quite tidy.
+  
 https://github.com/webbiscuit/event-based-ledger
 
-**Templates**
+### **Ridiculously Over-Engineered Personal Website**
+A website that should have taken 10 minutes, but didn't.  
 
-My clean, conda based jupyter template. Get up and running with a new python env quickly.
+https://github.com/webbiscuit/webbiscuit-website
+
+---
+
+## Templates
+
+### **Jupyter / Conda Starter Kit**
+My clean, fast way to spin up a new Python environment with Jupyter.
+
 https://github.com/webbiscuit/jupyter-template
 
-**Chess**
+## Chess Experiments
 
-Maybe I can write something that will make me less awful at chess...
+Trying to write code that will make me less awful at chess.  
+No breakthroughs yet.
 
 https://github.com/webbiscuit/dan-rusty-chess
 
-**Emulators**
+## Emulators
 
-Chip 8 Emulator
+### **CHIP-8 Emulator (Rust)**
+A tiny emulator for a tiny machine.
+
 https://github.com/webbiscuit/rust-chip8
 
-**Machine Learning**
+## Machine Learning
 
-Speaking to the dead using Python?
+### **Markov Kafka**
+What happens when you feed Kafka into a Markov chain?  
+Speak to the dead using Python, kinda.
+
 https://github.com/webbiscuit/markov-kafka
 
-**Text Adventures**
+## Text Adventures
 
-Parse choose your own whatevers (TM)
+### **Haskell Adventure Parser**
+Parsing choose-your-own-whatevers™.
+
 https://github.com/webbiscuit/haskell-adventure
 
+### **Inform Sandbox**
 All of the rooms look alike.
+
 https://github.com/webbiscuit/inform-sandbox
+
+---
+
+
