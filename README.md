@@ -11,7 +11,7 @@
 
 Here you will find a random collection of barely started projects and terrible ideas. I build things for fun and learning.
 
-All of my software is created with human intelligence. This is a vibe-free zone.
+Artisan software.
 
 ---
 
@@ -46,6 +46,11 @@ https://github.com/webbiscuit/webbiscuit-website
 My clean, fast way to spin up a new Python environment with Jupyter.
 
 https://github.com/webbiscuit/jupyter-template
+
+### **Bevy Template**
+Quick start bevy with the recommended release optimisations and mold linker setup
+
+https://github.com/webbiscuit/bevy-template
 
 ## Chess Experiments
 
