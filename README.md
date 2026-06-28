@@ -11,7 +11,7 @@
 
 Here you will find a random collection of barely started projects and terrible ideas. I build things for fun and learning.
 
-Artisan software.
+Meatbag coder.
 
 ---
 
